@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @FranciscoCaraveo
-- 👀 I’m interested in Movil Development, Machine Learning and AI
-- 🌱 I’m currently learning Flutter!
-- 💞️ I’m looking to collaborate on any project that im interested to.
-- 📫 How to reach me hit me on my DC or a message from here.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Life is Fast, Pet Raccs and eat trash.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-FranciscoCaraveo/FranciscoCaraveo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is Francisco and I'm a (Soon-to-be) Software Engineer, from Sonora, México!</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2003 <br>📚 I'm currently learning Movile Development! <br>🎯 Goals: To Work at a some big company of software development! <br>🎲 Fun fact: Did you know that raccons are cool? </p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo"  />          
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+
+###
